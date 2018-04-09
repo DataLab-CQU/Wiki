@@ -1,2 +1,2 @@
 # Wiki
-Let's go, CQU!
+pre-konwledge
