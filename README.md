@@ -1,2 +1,2 @@
-# Linux
+# Wiki
 Let's go, CQU!
