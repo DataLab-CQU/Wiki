@@ -6,11 +6,11 @@
 
 参考链接：
 
-1. 安装教程参考[https://zhuanlan.zhihu.com/p/31271077][https://zhuanlan.zhihu.com/p/31271077]
+1. 安装教程参考[][https://zhuanlan.zhihu.com/p/31271077]
   *注意*：
   - 该安装教程中BIOS设置中缺少一项，除了将Fast Boot关闭，还必须将Secure Boot设置为Disabled
   - 在进行Linux分区完准备安装时，一定要注意 **安装启动引导的设备 是否是你的boot分区**
-2. 解决显卡安装问题参考[https://blog.csdn.net/kilotwo/article/details/79258107][https://blog.csdn.net/kilotwo/article/details/79258107]
+2. 解决显卡安装问题参考[][https://blog.csdn.net/kilotwo/article/details/79258107]
 
 **请务必先仔细阅读完参考链接1和2才进行具体安装**
 
