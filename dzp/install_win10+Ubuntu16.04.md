@@ -6,7 +6,7 @@
 
 参考链接：
 
-1. 安装教程参考 https://zhuanlan.zhihu.com/p/31271077   
+1. 安装教程参考 https://zhuanlan.zhihu.com/p/31271077 
 
   注意：
 
