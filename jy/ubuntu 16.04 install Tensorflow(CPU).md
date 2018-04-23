@@ -6,15 +6,21 @@
 
 2. 安装tensorflow1.2.0
 
-   sudo pip install tensorflow==1.2.0 -i https://pypi.doubanio.com/simple
+   sudo pip install tensorflow==1.2.0 -i 
+
+   https://pypi.doubanio.com/simple
 
    遇到的问题：
 
    1.超时错误
 
-   ![timeout](/home/jy/Pictures/timeout.png)
+   ![timeout](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/timeout.png?raw=true)
 
-​           ![timeout1](/home/jy/Pictures/timeout1.png)
+   ​
+
+​    ![timeout1](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/timeout1.png?raw=true)
+
+
 
 - 解决办法
 
@@ -24,13 +30,13 @@
 
   ​        修改之后安装过程
 
-  ![timeout2](/home/jy/Pictures/timeout2.png)	
+  ![timeout2](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/timeout2.png?raw=true)	
 
-  ![tensorflow1](/home/jy/Pictures/tensorflow1.png)
+  ![tensorflow1](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/tensorflow1.png?raw=true)
 
-  ![tensorflow2](/home/jy/Pictures/tensorflow2.png)
+  ![tensorflow2](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/tensorflow2.png?raw=true)
 
-  ![tensorflow3](/home/jy/Pictures/tensorflow3.png)
+  ![tensorflow3](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/tensorflow3.png?raw=true)
 
   下载完成
 
@@ -40,7 +46,7 @@
 
 输入以下语句
 
-![tensorflow_test](/home/jy/Pictures/tensorflow_test.png)
+![tensorflow_test](https://github.com/DataLab-CQU/Wiki/blob/master/jy/jy_markdown_pic/ubuntu_16.04_install_Tensorflow_CPU/tensorflow_test.png?raw=true)
 
 测试完成。
 
