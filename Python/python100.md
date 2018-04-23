@@ -9,6 +9,8 @@
 
 ## Set
 
+1. ​
+
 ## Dict
 
 1. loop for dict
@@ -23,6 +25,7 @@
 1. replace()
 2. split()
 3. strip()
+4. ' '.join(['a', 'b'])
 
 ## IO
 
@@ -50,6 +53,4 @@
 ## Others
 
 1. sample
-
-
 
