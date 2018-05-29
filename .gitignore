@@ -1,1 +1,9 @@
 */.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
