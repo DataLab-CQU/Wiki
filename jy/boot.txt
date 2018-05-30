@@ -1,0 +1,4 @@
+boot 内存满
+boot内会经常更新内核信息，安装了新的内核信息，旧的还未删除
+使用以下网址解决问题
+https://www.linuxidc.com/Linux/2015-05/117401.htm
